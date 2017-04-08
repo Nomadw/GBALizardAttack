@@ -1,0 +1,9 @@
+#define MOD_CT5PROGC_SND	0
+#define MOD_SILENCE	1
+#define MOD_SOUND1	2
+#define SFX__BY_CAPTAIN	103
+#define SFX______PROTRA	111
+#define MOD_SPACEDEB	3
+#define MSL_NSONGS	4
+#define MSL_NSAMPS	124
+#define MSL_BANKSIZE	128
